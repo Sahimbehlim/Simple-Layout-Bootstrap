@@ -1,0 +1,41 @@
+a{
+	text-decoration: none;
+	color: black;
+	font-weight: 500;
+}
+.container{
+	border: 2px solid black;
+}
+#header{
+	padding: 10px;
+	background: lightcyan;
+}
+#menubar{
+	background: lightcoral;
+	padding-top: 10px;
+}
+#menubar ul{
+	list-style: none;
+}
+#menubar li{
+	display: inline;
+}
+#content{
+	padding: 20px;
+	text-align: justify;
+}
+#sidebar{
+	background: lightblue;
+}
+#sidebar ul{
+	padding-top: 20px;
+}
+#sidebar li{
+	padding: 10px;
+	font-size: 20px;
+}
+#footer{
+	text-align: right;
+	background: lightgrey;
+	padding-top: 5px;
+}
