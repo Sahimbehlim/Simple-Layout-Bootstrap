@@ -1,2 +1,4 @@
 # Simple-Layout-Bootstrap
-Responsive Simple Website Layout Created Using HTML/CSS &amp; Bootstrap
+• Page Structured Using HTML
+• Designed Using CSS
+• Repsonsive Layout Using Bootstrap
